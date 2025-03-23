@@ -1,2 +1,2 @@
 # simpclr
-Simple python color module
+Simple python color module. Uses ANSI codes
