@@ -237,12 +237,12 @@ BLACK = hsl(0, 0, 0)
 
 RED = hsl(0, 0.7, 0.5)
 ORANGE = hsl(24, 0.7, 0.5)
-YELLOW = hsl(60, 0.7, 0.5)
-GREEN = hsl(120, 0.7, 0.5)
-LIGHT_BLUE = hsl(180, 0.7, 0.5)
-BLUE = hsl(240, 0.7, 0.5)
-PURPLE = hsl(280, 0.7, 0.5)
-MAGENTA = hsl(300, 0.7, 0.5)
+YELLOW = hsl(60, 0.55, 0.45)
+GREEN = hsl(120, 0.4, 0.4)
+LIGHT_BLUE = hsl(180, 0.35, 0.45)
+BLUE = hsl(240, 0.4, 0.5)
+PURPLE = hsl(280, 0.4, 0.5)
+MAGENTA = hsl(300, 0.4, 0.5)
 
 
 if __name__ == '__main__':
